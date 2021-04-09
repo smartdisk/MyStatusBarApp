@@ -14,6 +14,7 @@
 		AA48246F261F363F00D21774 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA48246D261F363F00D21774 /* Main.storyboard */; };
 		AA482479261F378F00D21774 /* StatusBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA482478261F378F00D21774 /* StatusBarController.swift */; };
 		AA48247D261FBF6A00D21774 /* EventMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA48247C261FBF6A00D21774 /* EventMonitor.swift */; };
+		AA482480261FDB0D00D21774 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA48247F261FDB0D00D21774 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		AA482471261F363F00D21774 /* MyStatusBarApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MyStatusBarApp.entitlements; sourceTree = "<group>"; };
 		AA482478261F378F00D21774 /* StatusBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusBarController.swift; sourceTree = "<group>"; };
 		AA48247C261FBF6A00D21774 /* EventMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventMonitor.swift; sourceTree = "<group>"; };
+		AA48247F261FDB0D00D21774 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				AA482470261F363F00D21774 /* Info.plist */,
 				AA482471261F363F00D21774 /* MyStatusBarApp.entitlements */,
 				AA48246A261F363F00D21774 /* Preview Content */,
+				AA48247F261FDB0D00D21774 /* MainViewController.swift */,
 			);
 			path = MyStatusBarApp;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				AA482479261F378F00D21774 /* StatusBarController.swift in Sources */,
 				AA482465261F363E00D21774 /* AppDelegate.swift in Sources */,
 				AA48247D261FBF6A00D21774 /* EventMonitor.swift in Sources */,
+				AA482480261FDB0D00D21774 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
